@@ -21,7 +21,7 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
   
   <tr>
     <td>clone</td>
-    <td>git clone https://github.com/kedar1830/L2P-Server.git</td>
+    <td>git clone https://github.com/The-Learner-X/L2P-Server.git</td>
   </tr>
   
   <tr>
